@@ -2,7 +2,7 @@
 Thanks for visiting. Have a nice day ~
 
 <picture>
- <img alt="oshino shinobu eating a her leg" src="shinobu-eat-leg.gif">
+ <img alt="oshino shinobu eating her leg" src="shinobu-eat-leg.gif">
 </picture>
 
 <!--
