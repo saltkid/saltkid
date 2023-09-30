@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey 
+Thanks for visiting. Have a nice day ~
+
+<picture>
+ <img alt="oshino shinobu eating a her leg" src="shinobu-eat-leg.gif">
+</picture>
 
 <!--
 **saltkid/saltkid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
